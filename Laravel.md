@@ -26,35 +26,35 @@ function collect($value = null): Collection
 
 one-to-one
 
-![one-to-one](https://github.com/sarukomine/learning-habitat/blob/main/assets/laravel/eloquent/one-to-one.png?raw=true)
+![one-to-one](https://github.com/sarukomine/learning-habitat/blob/master/assets/laravel/eloquent/one-to-one.png?raw=true)
 
 one-to-many
 
-![one-to-many](https://github.com/sarukomine/learning-habitat/blob/main/assets/laravel/eloquent/one-to-many.png?raw=true)
+![one-to-many](https://github.com/sarukomine/learning-habitat/blob/master/assets/laravel/eloquent/one-to-many.png?raw=true)
 
 many-to-many
 
-![many-to-many](https://github.com/sarukomine/learning-habitat/blob/main/assets/laravel/eloquent/many-to-many.png?raw=true)
+![many-to-many](https://github.com/sarukomine/learning-habitat/blob/master/assets/laravel/eloquent/many-to-many.png?raw=true)
 
 has-one-through
 
-![has-one-through](https://github.com/sarukomine/learning-habitat/blob/main/assets/laravel/eloquent/has-one-through.png?raw=true)
+![has-one-through](https://github.com/sarukomine/learning-habitat/blob/master/assets/laravel/eloquent/has-one-through.png?raw=true)
 
 has-many-through
 
-![has-many-through](https://github.com/sarukomine/learning-habitat/blob/main/assets/laravel/eloquent/has-many-through.png?raw=true)
+![has-many-through](https://github.com/sarukomine/learning-habitat/blob/master/assets/laravel/eloquent/has-many-through.png?raw=true)
 
 one-to-one (polymorphism)
 
-![one-to-one-polymorphism](https://github.com/sarukomine/learning-habitat/blob/main/assets/laravel/eloquent/one-to-one-polymorphism.png?raw=true)
+![one-to-one-polymorphism](https://github.com/sarukomine/learning-habitat/blob/master/assets/laravel/eloquent/one-to-one-polymorphism.png?raw=true)
 
 one-to-many (polymorphism)
 
-![one-to-many-polymorphism](https://github.com/sarukomine/learning-habitat/blob/main/assets/laravel/eloquent/one-to-many-polymorphism.png?raw=true)
+![one-to-many-polymorphism](https://github.com/sarukomine/learning-habitat/blob/master/assets/laravel/eloquent/one-to-many-polymorphism.png?raw=true)
 
 many-to-many (polymorphism)
 
-![many-to-many-polymorphism](https://github.com/sarukomine/learning-habitat/blob/main/assets/laravel/eloquent/many-to-many-polymorphism.png?raw=true)
+![many-to-many-polymorphism](https://github.com/sarukomine/learning-habitat/blob/master/assets/laravel/eloquent/many-to-many-polymorphism.png?raw=true)
 
 ---
 

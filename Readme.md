@@ -5,4 +5,3 @@
 - [Docker](https://github.com/sarukomine/learning-habitat/blob/main/Docker.md)
 - [JavaScript](https://github.com/sarukomine/learning-habitat/blob/main/JavaScript.md)
 - [Laravel](https://github.com/sarukomine/learning-habitat/blob/main/Laravel.md)
-- [Vue.js](https://github.com/sarukomine/learning-habitat/blob/main/VueJs.md)
